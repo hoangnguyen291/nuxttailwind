@@ -42,6 +42,7 @@
             <hr class="tw-my-3" />
           </div>
         </div>
+       <fa-icon icon="home" />
       </div>
     </div>
   </div>
